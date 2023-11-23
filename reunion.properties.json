@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "655df99b8239625b9603e2fa"
+  },
+  "name": "Elm Street",
+  "city": "Diamond",
+  "state": "WB",
+  "country": "India",
+  "type": "townhouse",
+  "fare": 3000,
+  "availableFrom": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  },
+  "bed": 4,
+  "bathroom": 3,
+  "length": 40,
+  "width": 18,
+  "img": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?cs=srgb&dl=pexels-pixabay-261102.jpg&fm=jpg",
+  "owner": "655db5c4432485f1e7330076"
+},
+{
+  "_id": {
+    "$oid": "655df99b8239625b9603e2fe"
+  },
+  "name": "City View Apartments",
+  "city": "Delhi",
+  "state": "DL",
+  "country": "India",
+  "type": "apartment",
+  "fare": 1800,
+  "availableFrom": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  },
+  "bed": 3,
+  "bathroom": 2,
+  "length": 32,
+  "width": 15,
+  "img": "https://assets.graydientcreative.com/files/outlets/platinum/images/marquis-3-min.jpg",
+  "owner": "655db5c4432485f1e7330076"
+},
+{
+  "_id": {
+    "$oid": "655df99b8239625b9603e2f9"
+  },
+  "name": "Pine Lane",
+  "city": "Jalpaiguri",
+  "state": "WB",
+  "country": "India",
+  "type": "condo",
+  "fare": 1800,
+  "availableFrom": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  },
+  "bed": 1,
+  "bathroom": 1,
+  "length": 20,
+  "width": 12,
+  "img": "https://media.istockphoto.com/id/503019528/photo/road-front-of-luxury-building-in-clear-sky-at-night.jpg?s=612x612&w=0&k=20&c=xkjUByXNE5SdMSeYxLqIwweZMg9XZ6xnWEK7ypdeO4I=",
+  "owner": "655db5c4432485f1e7330076"
+},
+{
+  "_id": {
+    "$oid": "655df99b8239625b9603e2fc"
+  },
+  "name": "Royal Residency",
+  "city": "Delhi",
+  "state": "DL",
+  "country": "India",
+  "type": "apartment",
+  "fare": 1500,
+  "availableFrom": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  },
+  "bed": 2,
+  "bathroom": 1,
+  "length": 28,
+  "width": 12,
+  "img": "https://www.theparkhotels.com/images/site-specific/navi-mumbai/home/navi-mumbai-night-view.jpg",
+  "owner": "655db5c4432485f1e7330076"
+},
+{
+  "_id": {
+    "$oid": "655df99b8239625b9603e2fb"
+  },
+  "name": "Birch Road",
+  "city": "Kolkata",
+  "state": "WB",
+  "country": "India",
+  "type": "other",
+  "fare": 2000,
+  "availableFrom": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  },
+  "bed": 3,
+  "bathroom": 2,
+  "length": 30,
+  "width": 14,
+  "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463156637.jpg?k=5d913fb55963d82c13fe5960117723b5d57007e15e813be871395bf090418f2f&o=&hp=1",
+  "owner": "655db5c4432485f1e7330076"
+},
+{
+  "_id": {
+    "$oid": "655e0f60afbc2f7bb5d33a4c"
+  },
+  "name": "Oak Avenue",
+  "img": "https://example.com/hotel1.jpg",
+  "city": "Kolkata",
+  "state": "WB",
+  "country": "India",
+  "type": "house",
+  "fare": 2500,
+  "availableFrom": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  },
+  "bed": 3,
+  "bathroom": 2,
+  "length": 35,
+  "width": 15,
+  "owner": "655db5c4432485f1e7330076",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e52ece0e684de9af9675e"
+  },
+  "name": "Maple Street",
+  "img": "https://example.com/hotel2.jpg",
+  "city": "Delhi",
+  "state": "DL",
+  "country": "India",
+  "type": "apartment",
+  "fare": 1200,
+  "availableFrom": {
+    "$date": "2023-12-05T00:00:00.000Z"
+  },
+  "bed": 2,
+  "bathroom": 1,
+  "length": 25,
+  "width": 10,
+  "owner": "655db5c4432485f1e7330076",
+  "__v": 0
+}]
